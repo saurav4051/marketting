@@ -1,0 +1,28 @@
+*{
+    margin:10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(124, 184, 236);
+}
+
+#wrapper{
+    height:90vh;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.container h1{
+    display:flex;
+    justify-content:center;
+    font-size: xx-large;
+    margin:0 auto;
+    color: brown;
+    font-style: inherit;
+}
+p{
+    font-size:xx-large
+}
+
